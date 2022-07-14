@@ -1,25 +1,5 @@
 # Network-Log-and-Traffic-Analysis
 Identify malicious behavior and attacks using Machine Learning with Python
-# LAB A
-
-We'll be using IPython and panads functionality in this part.
-
-Our first goal is to get the information from the log files off of disk and into a dataframe.
-
-Since we're working with limited resources we'll use samples of the larger files.
-
-
-## Requirements
-
-    IPython
-    Pandas
-    Matplotlib
-    Seaborn
-    datetime
-    warnings
-    
-## Tip
-To access keyboard shortcuts click on a (non-code) cell or the text "In []" to the left of the cell, and press the *H* key. Or select *Help* from the menu above, and then *Keyboard Shortcuts*. **Very useful saved us a lot of time during editing.
 
 # Business Understanding
 
